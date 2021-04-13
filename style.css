@@ -57,6 +57,10 @@ figcaption {
     text-align: center;
 }
 
+.notes {
+    font-style: italic;
+}
+
 /** BASE CLASSES */
 /** Container styles to keep content from becoming too wide or coming too close to
 * mobile edge */
