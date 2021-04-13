@@ -125,6 +125,14 @@ figcaption {
     /* Allow the input field in the qty container to take up 90% of the width */
 }
 
+.price {
+    display: flex;
+}
+
+.price {
+    flex-basis: 45%;
+}
+
 /**
 * Styling the input fields to be the full width of the parent, with 7px of padding and turns off the default border
 */
@@ -197,7 +205,7 @@ figcaption {
 */
 .calculator .row.total {
     display: none;
-    background-color: #ccc;
+    background-color: #FFF;
     padding: 10px;
     flex-basis: 100%;
 }
